@@ -1,6 +1,9 @@
 <!-- ![Pandamime100HP Logo](/assets/images/pandamime_no_bg_800x800.png) -->
 
-<img src="/assets/images/pandamime_no_bg_800x800.png" alt="Pandamime Logo" width="200px" height="200px"/>
+<img src="/assets/images/pandamime_no_bg_800x800.png" alt="Pandamime Logo" width="200px" height="200px" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"/>
 
 # Parkside 20V Battery Step Down Transformer
 
